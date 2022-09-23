@@ -4,7 +4,16 @@ using namespace std;
 
 int main (){
 
-    cout << "Hola mundo";
 
-    
+int x, y;
+
+    cout << "Ingresa un número";
+cin >>x;
+
+    cout << "Ingresa un número";
+cin >>y;
+
+cout << x+y;
+
+
 }
